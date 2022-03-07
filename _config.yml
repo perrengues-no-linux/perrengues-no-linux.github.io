@@ -28,7 +28,8 @@ twitter_username: celo
 github_username:  celo
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: aterenin/minima-reboot
 plugins:
   - jekyll-feed
 
